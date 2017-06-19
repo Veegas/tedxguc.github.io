@@ -1968,3 +1968,9 @@ footer .socialMedia {
 .ss-password-warning {
     display: none;
 }
+
+#backAndForthList, #marionetteList, #identityList {
+    font-weight: 300;   
+    list-style: square; 
+    margin-left: 5%;
+}
