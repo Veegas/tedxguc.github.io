@@ -974,6 +974,9 @@ html.ie6 .founder .firstTitle {
     font-weight: 400;
     line-height: 24px;
 }
+.talkTitle{
+    -webkit-text-fill-color: red;
+}
 /*==============================TEAM VISION INFO==============================================*/
 
 .teams .teamsTitle {
